@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Yearly Game Jams: 
+
+- Summer 2025 - Fishing "Friends" - [itch.io](https://motmir.itch.io/fishingfriends)
+- Summer 2024 - Customer States - [itch.io](https://motmir.itch.io/customer-states) 
+- Summer 2023 - Cowsmic Ranch - [itch.io](https://motmir.itch.io/cowsmic-ranch)
+
+
