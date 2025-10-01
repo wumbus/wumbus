@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - [Master project - An ePrescription Model Using Self-Sovereign-Identity and Blockchain ](https://github.com/NTNU-IDI/nextgen-helsenorge-lisebul)
 - [Capstone project in South Korea - exchangelicious](https://github.com/tientrinh21/exchangelicious)
 - [IT2810 Webutvikling](https://github.com/wumbus/emne_webutvikling)
+- [TDT4240 Programvarearkitektur - WordleBattle](https://github.com/JoakimAustvold/WordleBattle)
 
 
 ## Yearly Game Jams with Friends: 
