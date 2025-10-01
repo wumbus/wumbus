@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋 I made a thing or two ✨✨
 
 <!--
 **wumbus/wumbus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Yearly Game Jams: 
+## University projects: 
+- [Master project - An ePrescription Model Using Self-Sovereign-Identity and Blockchain ](https://github.com/NTNU-IDI/nextgen-helsenorge-lisebul)
+- [Capstone project in South Korea - exchangelicious](https://github.com/tientrinh21/exchangelicious)
+- [IT2810 Webutvikling](https://github.com/wumbus/emne_webutvikling)
+
+
+## Yearly Game Jams with Friends: 
 
 - Summer 2025 - Fishing "Friends" - [itch.io](https://motmir.itch.io/fishingfriends)
-- Summer 2024 - Customer States - [itch.io](https://motmir.itch.io/customer-states) 
-- Summer 2023 - Cowsmic Ranch - [itch.io](https://motmir.itch.io/cowsmic-ranch)
+- Summer 2024 - Customer States - [itch.io](https://motmir.itch.io/customer-states) - [github](https://github.com/Motmir/Customer-states)
+- Summer 2023 - Cowsmic Ranch - [itch.io](https://motmir.itch.io/cowsmic-ranch) - [github](https://github.com/Motmir/Untitled-GameJam-79)
+- Summer 2022 - [github](https://github.com/Motmir/GMTK2022)
 
 
